@@ -1,0 +1,9 @@
+.lander {
+  position: relative;
+  display: inline-block;
+}
+
+#searchBarContainer {
+  position: relative;
+  float: left;
+}
